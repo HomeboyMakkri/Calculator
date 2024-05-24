@@ -23,7 +23,8 @@ SOURCES += \
 HEADERS += \
     d_algorithm.h \
     mainwindow.h \
-    temp.h
+    temp.h \
+    999.png
 
 FORMS += \
     mainwindow.ui
