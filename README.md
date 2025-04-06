@@ -1,3 +1,3 @@
-ctrl+enter to press ' = ' ;
+# Калькулятор на Qt
 
-Dijkstra's algorithm is implemented to translate into Polish notation
+Логика парсинга математического выражения реализована с помощью алгоритма Дейкстры (польская нотация)
